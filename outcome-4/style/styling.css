@@ -1,0 +1,17 @@
+p {
+    text-indent: 50px;
+    width: 700px;
+    padding: 10px;
+}
+
+div{
+	margin: 30px 0px;
+	width: 100vw;
+	height: auto;
+	border-bottom: solid 1px black;
+}
+
+img{
+	box-sizing: border-box;
+	max-width: 600px;
+}
